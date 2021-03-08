@@ -1,6 +1,6 @@
 # Homework Assignment 12
 
-[![Build Status](https://travis-ci.com/PGE310/assignment12.svg?token=SnMGq692xXXqxzyE6QSj&branch=master)](https://travis-ci.com/PGE310/assignment12)
+![Assignment 12](https://github.com/PGE310/assignment11/workflows/.github/workflows/main.yml/badge.svg)
 
 Open the [Assignment 12 Jupyter Notebook](assignment12.ipynb) and follow the instructions.
 
